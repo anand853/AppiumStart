@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.test.core.NewTest" duration-ms="25556" started-at="2016-04-15T21:46:43Z" finished-at="2016-04-15T21:47:09Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="25556" started-at="2016-04-15T21:46:43Z" finished-at="2016-04-15T21:47:09Z">
+      <class name="com.test.core.NewTest">
+        <test-method status="PASS" signature="enterSomeValue()[pri:0, instance:com.test.core.NewTest@380fb434]" name="enterSomeValue" duration-ms="14" started-at="2016-04-15T17:46:43Z" finished-at="2016-04-15T17:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterSomeValue -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.core.NewTest@380fb434]" name="f" duration-ms="25520" started-at="2016-04-15T17:46:43Z" finished-at="2016-04-15T17:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.test.core.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.core.NewTest -->
+</testng-results>
