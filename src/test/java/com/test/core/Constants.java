@@ -1,6 +1,8 @@
 package com.test.core;
 
 public interface Constants {
+	
+	public static String RESOURCES_DIRECTORY ="src/test/resources";
 	public static String FOLDER_PATH = "/Users/cigniti_apasunoori/Documents/apps/apk";
 	public static String APP_NAME = "irobot-debug.196.apk";
 
